@@ -1,0 +1,7 @@
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Listas\Exercicio - Listas\bin\Debug\Exercicio - Listas.exe.config
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Listas\Exercicio - Listas\bin\Debug\Exercicio - Listas.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Listas\Exercicio - Listas\bin\Debug\Exercicio - Listas.pdb
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Listas\Exercicio - Listas\obj\Debug\Exercicio - Listas.csproj.AssemblyReference.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Listas\Exercicio - Listas\obj\Debug\Exercicio - Listas.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Listas\Exercicio - Listas\obj\Debug\Exercicio - Listas.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Listas\Exercicio - Listas\obj\Debug\Exercicio - Listas.pdb
